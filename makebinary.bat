@@ -1,0 +1,1 @@
+"C:\ti\ccsv6\utils\tiobj2bin\tiobj2bin" "aws_app.out" "aws_app.bin" "C:\ti\ccsv6\tools\compiler\arm_15.12.2.LTS\bin\armofd" "C:\ti\ccsv6\tools\compiler\arm_15.12.2.LTS\bin\armhex" "C:\ti\ccsv6\utils\tiobj2bin\mkhex4bin"

@@ -1,0 +1,8 @@
+.config/
+.settings
+aws_app/
+*.cproject
+*.out
+*.o
+*.map
+*.aem4
